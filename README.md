@@ -1,7 +1,7 @@
 
 
 # Project - 007 : Bootstrap Web Page (HC-07)
-
+https://blue06900.github.io/BootstrapProject/
 Our goal in this project is to create a web page using bootstrap 5 at a basic level.
 Use the photos you found on the internet in the project solution.
 
