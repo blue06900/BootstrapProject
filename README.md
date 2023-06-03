@@ -1,5 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+
 
 # Project - 007 : Bootstrap Web Page (HC-07)
 
@@ -8,9 +7,9 @@ Use the photos you found on the internet in the project solution.
 
 ## Learning Outcomes
 
-![Project Snapshot](./bootstrap.gif);
+![Project Snapshot](./bootstrapproje.gif);
 
-Make a web page like in the [example project](https://harveycla.github.io/HarveyTech_with_Bootstrap5/).
+
 
    
 ## Problem Statement
@@ -19,6 +18,6 @@ Make a web page like in the [example project](https://harveycla.github.io/Harvey
 
 ## Resources
 
--  [Images](./img/)
+-  [Images](./boostrapproje.jpg/)
 
 <p align="center"> ⌛<strong> Happy Coding </strong> ✍ </p>
