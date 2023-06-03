@@ -7,7 +7,7 @@ Use the photos you found on the internet in the project solution.
 
 ## Learning Outcomes
 
-![Project Snapshot](./bootstrapproje.gif);
+![Project Snapshot](bootstrapproje.gif);
 
 
 
