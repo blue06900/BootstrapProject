@@ -7,7 +7,7 @@ Use the photos you found on the internet in the project solution.
 
 ## Learning Outcomes
 
-![Project Snapshot](boostrapproje.gif);
+![Project Snapshot](boostrapproje.gif)
 
 
 
@@ -18,6 +18,6 @@ Use the photos you found on the internet in the project solution.
 
 ## Resources
 
--  [Images](boostrapproje.jpg)
+![Images](boostrapproje.jpg)
 
 <p align="center"> ⌛<strong> Happy Coding </strong> ✍ </p>
